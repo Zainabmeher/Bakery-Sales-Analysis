@@ -35,6 +35,14 @@ Power BI - 3-page dashboard
     ↓
 Business recommendations + action Plan 
 
+#AI Integration
+
+-Used AI-assisted analysis to identify patterns in product performance and basket combinations
+
+-Leveraged AI to structure and validate business recommendations before finalising the dashboard
+
+-AI tools used to accelerate insight generation across the EDA phase
+
 #Key Findings
 
 -Angbutter is the #1 product with 192 orders; 3x more than the next best seller
