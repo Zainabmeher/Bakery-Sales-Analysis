@@ -24,16 +24,22 @@ AI INTEGRATION - Claude, Gemini;	AI-assisted analysis,	Insight generation, recom
 #Pipeline Architecture
 
 Raw Data (CSV)
+
     ↓
 SQL - exploration \& extraction queries
+
     ↓
 Python - cleaning, EDA, basket analysis
+
     ↓
 Cleaned Dataset (CSV export)
+
     ↓
 Power BI - 3-page dashboard
+
     ↓
 Business recommendations + action Plan 
+
 
 #AI Integration
 
