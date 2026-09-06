@@ -3,7 +3,7 @@ End-to-end sales analytics pipeline - SQL, Python, Power BI
 
 #Business Problem
 
-A bakery client had months of sales data but no clear understanding of which products were driving revenue, how customers were buying, or how to plan inventory. This project delivers a full analytical pipeline — from raw data to executive dashboard — answering three core business questions:
+A bakery client had months of sales data but no clear understanding of which products were driving revenue, how customers were buying, or how to plan inventory. This project delivers a full analytical pipeline, from raw data to executive dashboard to answering three core business questions:
 
 -Which products perform best and which are dead weight?
 
@@ -25,25 +25,25 @@ AI INTEGRATION - Claude, Gemini;	AI-assisted analysis,	Insight generation, recom
 
 Raw Data (CSV)
     ↓
-SQL — exploration \& extraction queries
+SQL - exploration \& extraction queries
     ↓
-Python — cleaning, EDA, basket analysis
+Python - cleaning, EDA, basket analysis
     ↓
 Cleaned Dataset (CSV export)
     ↓
-Power BI — 3-page dashboard
+Power BI - 3-page dashboard
     ↓
-Business Recommendations + Action Plan 
+Business recommendations + action Plan 
 
 #Key Findings
 
--Angbutter is the #1 product with 192 orders — 3x more than the next best seller
+-Angbutter is the #1 product with 192 orders; 3x more than the next best seller
 
--Friday drives the highest weekly revenue — optimal day for promotions and stock planning
+-Friday drives the highest weekly revenue; optimal day for promotions and stock planning
 
--Basket analysis reveals almond croissant + pandoro have 0.52 correlation — strong bundling opportunity
+-Basket analysis reveals almond croissant + pandoro have 0.52 correlation which indicates a strong bundling opportunity
 
--5 products (cheesecake, croque monsieur, mad garlic, meringue, lemon ade) have near-zero sales — candidates for discontinuation or repositioning
+-5 products (cheesecake, croque monsieur, mad garlic, meringue, lemon ade) have near-zero sales; indication for discontinuation or repositioning
 
 -Returning customers generate 52% of revenue despite being only only 52% of the customer base 
 
@@ -57,11 +57,11 @@ Page 3 - Action Plan;	Product action table, customer segment analysis, expected 
 
 #Expected Impact if recommendations implemented:
 
-15–20% increase in revenue
+-15–20% increase in revenue
 
-10–15% increase in orders
+-10–15% increase in orders
 
-20–25% improvement in customer retention
+-20–25% improvement in customer retention
 
 
 
